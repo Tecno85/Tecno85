@@ -17,13 +17,13 @@ Soy desarrollador en formación, enfocado en crear aplicaciones útiles, interfa
 
 ## 🚀 Proyectos destacados
 
-### 🚗 Control Vehicular
+### Control Vehicular
 Aplicación Android para gestionar vehículos, gastos, documentos y novedades.
 
-### 🎨 Artify
+### Artify
 Aplicación web de edición de imágenes con filtros, autenticación y gestión de usuarios.
 
-### 🌐 Portafolio personal
+### Portafolio personal
 Sitio web donde presento mis proyectos, habilidades y perfil profesional.
 
 ## 🛠️ Herramientas principales
