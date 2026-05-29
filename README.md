@@ -21,13 +21,21 @@ Soy desarrollador en formación, enfocado en crear aplicaciones útiles, interfa
 ## 🚀 Proyectos destacados
 
 ### - Control Vehicular
-Aplicación Android para gestionar vehículos, gastos, documentos y novedades.
+Aplicación Android para la gestión de vehículos, gastos, documentos y novedades.  
+Desarrollada como proyecto práctico enfocado en organización, control y seguimiento vehicular.
+
+[Ver repositorio](https://github.com/Tecno85/vehicle-control-app)
 
 ### - Artify
-Aplicación web de edición de imágenes con filtros, autenticación y gestión de usuarios.
+Aplicación web de edición de imágenes con filtros, autenticación y gestión de usuarios.  
+Incluye backend propio, API REST y persistencia de datos.
+
+[Ver repositorio](https://github.com/Tecno85/Artify)
 
 ### - Portafolio personal
-Sitio web donde presento mis proyectos, habilidades y perfil profesional.
+Sitio web personal donde presento mis proyectos, habilidades y perfil profesional como desarrollador.
+
+[Ver repositorio](https://github.com/Tecno85/porfolio)
 
 ## 📫 Contacto
 
