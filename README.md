@@ -52,7 +52,7 @@ Recupera evidencia relevante, genera respuestas con Gemini y muestra las fuentes
 
 `Python` · `Streamlit` · `RAG` · `Embeddings` · `Gemini`
 
-[Ver repositorio](https://github.com/Tecno85/pegasus-rag)
+[Ver repositorio](https://github.com/Tecno85/pegasus-rag) · [Probar aplicación](https://pegasus-rag-tecno85.streamlit.app/)
 
 ### Portafolio personal
 
