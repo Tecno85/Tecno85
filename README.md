@@ -1,36 +1,69 @@
-# 👋 Hola, soy Ivan Dario Madrid Daza
+# 👋 Hola, soy Iván Darío Madrid Daza
 
-**Software Developer | Frontend | Android**
+**Desarrollador de software | Aplicaciones web, Android e inteligencia artificial**
 
-Soy desarrollador en formación, enfocado en crear aplicaciones útiles, interfaces claras y soluciones prácticas. Me gusta construir proyectos que combinen diseño, funcionalidad y aprendizaje constante.
+Soy desarrollador de software en formación. Construyo soluciones web y móviles orientadas a
+resolver problemas reales, con especial interés en interfaces claras, arquitectura mantenible y
+aprendizaje continuo.
 
-## 🛠️ Herramientas principales
+## 🛠️ Tecnologías
 
+### Lenguajes
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Desarrollo y datos
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🚀 Proyectos destacados
 
-### - Control Vehicular
-Aplicación Android para gestionar vehículos, gastos, documentos y novedades.
+### Control Vehicular
 
-### - Artify
-Aplicación web de edición de imágenes con filtros, autenticación y gestión de usuarios.
+Aplicación Android para gestionar vehículos particulares y taxis, con control de gastos,
+documentos, vencimientos, novedades e historial.
 
-### - Portafolio personal
-Sitio web donde presento mis proyectos, habilidades y perfil profesional.
+`Kotlin` · `Jetpack Compose` · `Android`
+
+[Ver repositorio](https://github.com/Tecno85/vehicle-control-app)
+
+### Artify
+
+Editor de imágenes web con filtros, recorte, redimensionamiento e historial. Incluye API REST,
+autenticación por roles, panel administrativo y persistencia en PostgreSQL.
+
+`JavaScript` · `Canvas API` · `Node.js` · `Express` · `PostgreSQL`
+
+[Ver repositorio](https://github.com/Tecno85/artify) · [Probar aplicación](https://tecno85.github.io/artify/)
+
+### Pegasus RAG
+
+Asistente de inteligencia artificial para consultar documentación empresarial en lenguaje natural.
+Recupera evidencia relevante, genera respuestas con Gemini y muestra las fuentes utilizadas.
+
+`Python` · `Streamlit` · `RAG` · `Embeddings` · `Gemini`
+
+[Ver repositorio](https://github.com/Tecno85/pegasus-rag)
+
+### Portafolio personal
+
+Sitio web responsive donde presento mi perfil profesional, proyectos, habilidades y hoja de vida.
+
+`HTML` · `CSS` · `JavaScript`
+
+[Ver repositorio](https://github.com/Tecno85/porfolio) · [Visitar portafolio](https://tecno85.github.io/porfolio/)
 
 ## 📫 Contacto
 
-- [Portafolio](https://tecno85.github.io/porfolio/)
 - [LinkedIn](https://www.linkedin.com/in/ivan-dario-madrid/)
+- [Portafolio](https://tecno85.github.io/porfolio/)
 - [GitHub](https://github.com/Tecno85)
