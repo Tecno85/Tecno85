@@ -1,69 +1,98 @@
 # 👋 Hola, soy Iván Darío Madrid Daza
 
-**Desarrollador de software | Aplicaciones web, Android e inteligencia artificial**
+**Desarrollador de software enfocado en desarrollo web**
 
-Soy desarrollador de software en formación. Construyo soluciones web y móviles orientadas a
-resolver problemas reales, con especial interés en interfaces claras, arquitectura mantenible y
-aprendizaje continuo.
+Desarrollo sitios y aplicaciones web funcionales, responsive y fáciles de utilizar. Mi enfoque
+principal está en soluciones web construidas con HTML, CSS, JavaScript, Node.js y PostgreSQL.
 
-## 🛠️ Tecnologías
+Me interesa colaborar con personas, emprendimientos y pequeños negocios que necesiten convertir
+una idea o necesidad concreta en una solución web.
 
-### Lenguajes
+## 💼 En qué puedo ayudarte
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- Crear landing pages y sitios web informativos adaptados a dispositivos móviles.
+- Desarrollar interfaces interactivas con HTML, CSS y JavaScript.
+- Construir aplicaciones web pequeñas con formularios y gestión de información.
+- Desarrollar APIs REST con Node.js y Express.
+- Integrar bases de datos PostgreSQL para almacenar y consultar información.
+- Integrar frontend, backend y base de datos en una solución web completa.
+- Corregir errores en sitios y aplicaciones web.
+- Realizar mantenimiento y mejoras en proyectos existentes.
 
-### Desarrollo y datos
-
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## 🚀 Proyectos destacados
-
-### Control Vehicular
-
-Aplicación Android para gestionar vehículos particulares y taxis, con control de gastos,
-documentos, vencimientos, novedades e historial.
-
-`Kotlin` · `Jetpack Compose` · `Android`
-
-[Ver repositorio](https://github.com/Tecno85/vehicle-control-app)
+## 🚀 Proyectos web destacados
 
 ### Artify
 
-Editor de imágenes web con filtros, recorte, redimensionamiento e historial. Incluye API REST,
-autenticación por roles, panel administrativo y persistencia en PostgreSQL.
+Aplicación web full stack para editar imágenes directamente desde el navegador. Integra un editor
+basado en Canvas API, una API REST con Node.js y Express, autenticación y autorización por roles,
+panel administrativo y persistencia en PostgreSQL.
 
-`JavaScript` · `Canvas API` · `Node.js` · `Express` · `PostgreSQL`
+La solución se encuentra desplegada públicamente y funciona con el frontend, el backend y la base
+de datos integrados mediante GitHub Pages, Render y Neon.
 
-[Ver repositorio](https://github.com/Tecno85/artify) · [Probar aplicación](https://tecno85.github.io/artify/)
+`HTML` · `CSS` · `JavaScript` · `Canvas API` · `Node.js` · `Express` · `PostgreSQL`
 
-### Pegasus RAG
-
-Asistente de inteligencia artificial para consultar documentación empresarial en lenguaje natural.
-Recupera evidencia relevante, genera respuestas con Gemini y muestra las fuentes utilizadas.
-
-`Python` · `Streamlit` · `RAG` · `Embeddings` · `Gemini`
-
-[Ver repositorio](https://github.com/Tecno85/pegasus-rag) · [Probar aplicación](https://pegasus-rag-tecno85.streamlit.app/)
+[Ver repositorio](https://github.com/Tecno85/artify) ·
+[Probar aplicación](https://tecno85.github.io/artify/)
 
 ### Portafolio personal
 
 Sitio web responsive donde presento mi perfil profesional, proyectos, habilidades y hoja de vida.
 
-`HTML` · `CSS` · `JavaScript`
+Fue desarrollado con HTML, CSS y JavaScript, con atención a la navegación, la adaptación a
+diferentes tamaños de pantalla, la accesibilidad y la presentación del contenido.
 
-[Ver repositorio](https://github.com/Tecno85/porfolio) · [Visitar portafolio](https://tecno85.github.io/porfolio/)
+`HTML` · `CSS` · `JavaScript` · `Responsive Design`
 
-## 📫 Contacto
+[Ver repositorio](https://github.com/Tecno85/porfolio) ·
+[Visitar portafolio](https://tecno85.github.io/porfolio/)
+
+## 🧩 Experiencia complementaria
+
+### Control Vehicular
+
+Aplicación Android para administrar vehículos particulares y taxis. Permite gestionar gastos,
+documentos, vencimientos, novedades, historial y reportes básicos.
+
+Es un proyecto académico funcional desarrollado como parte de mi formación en Análisis y
+Desarrollo de Software.
+
+`Kotlin` · `Jetpack Compose` · `Room` · `SQLite` · `Material Design 3`
+
+[Ver repositorio](https://github.com/Tecno85/vehicle-control-app)
+
+### Pegasus RAG
+
+Asistente de inteligencia artificial para consultar documentación empresarial en lenguaje natural.
+
+El sistema recupera información relevante, genera respuestas con Gemini y muestra las fuentes
+utilizadas para respaldar cada respuesta.
+
+`Python` · `Streamlit` · `RAG` · `Embeddings` · `Gemini`
+
+[Ver repositorio](https://github.com/Tecno85/pegasus-rag) ·
+[Probar aplicación](https://pegasus-rag-tecno85.streamlit.app/)
+
+## 🛠️ Tecnologías principales
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000.svg?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white)
+
+También he desarrollado proyectos con Python, Streamlit, Kotlin, Jetpack Compose, Room y SQLite.
+
+## 📫 Contacto y disponibilidad
+
+Actualmente estoy disponible para proyectos web pequeños y colaboraciones freelance.
+
+Si necesitas una landing page, un sitio informativo, mejoras en un proyecto existente o una
+aplicación web pequeña, puedes contactarme mediante los siguientes enlaces:
 
 - [LinkedIn](https://www.linkedin.com/in/ivan-dario-madrid/)
 - [Portafolio](https://tecno85.github.io/porfolio/)
-- [GitHub](https://github.com/Tecno85)
+- [Correo electrónico](mailto:tecno85@gmail.com)
