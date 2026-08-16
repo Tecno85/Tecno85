@@ -5,14 +5,14 @@
 Desarrollo sitios y aplicaciones web funcionales, responsive y fáciles de utilizar. Mi enfoque
 principal está en soluciones web construidas con HTML, CSS, JavaScript, Node.js y PostgreSQL.
 
-Me interesa colaborar con personas, emprendimientos y pequeños negocios que necesiten convertir
-una idea o necesidad concreta en una solución web.
+Me interesa colaborar con personas, emprendimientos, negocios y organizaciones que necesiten
+convertir una idea o necesidad concreta en una solución web.
 
 ## 💼 En qué puedo ayudarte
 
 - Crear landing pages y sitios web informativos adaptados a dispositivos móviles.
 - Desarrollar interfaces interactivas con HTML, CSS y JavaScript.
-- Construir aplicaciones web pequeñas con formularios y gestión de información.
+- Construir aplicaciones web con formularios y gestión de información.
 - Desarrollar APIs REST con Node.js y Express.
 - Integrar bases de datos PostgreSQL para almacenar y consultar información.
 - Integrar frontend, backend y base de datos en una solución web completa.
@@ -88,10 +88,10 @@ También he desarrollado proyectos con Python, Streamlit, Kotlin, Jetpack Compos
 
 ## 📫 Contacto y disponibilidad
 
-Actualmente estoy disponible para proyectos web pequeños y colaboraciones freelance.
+Actualmente estoy disponible para proyectos de desarrollo web y colaboraciones freelance.
 
 Si necesitas una landing page, un sitio informativo, mejoras en un proyecto existente o una
-aplicación web pequeña, puedes contactarme mediante los siguientes enlaces:
+aplicación web, puedes contactarme mediante los siguientes enlaces:
 
 - [LinkedIn](https://www.linkedin.com/in/ivan-dario-madrid/)
 - [Portafolio](https://tecno85.github.io/porfolio/)
